@@ -128,9 +128,6 @@ function App() {
               ทำงานจบในเครื่องของคุณ 100%
             </span>
           </h1>
-          <p className="text-base sm:text-lg text-slate-500 font-medium leading-relaxed px-4">
-            ไม่ต้องอัปโหลดไฟล์ขึ้นอินเทอร์เน็ต! สแกนความซ้ำซ้อนด้วยพลังเบราว์เซอร์ ปลอดภัย เป็นส่วนตัว และนำไปโฮสต์บน Vercel ได้ทันที
-          </p>
         </div>
 
         {/* Upload Button Area */}
